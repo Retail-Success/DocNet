@@ -7,13 +7,9 @@ using NUnit.Framework;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("MarkdownDeepTests")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Topten Software")]
 [assembly: AssemblyProduct("MarkdownDeepTests")]
 [assembly: AssemblyCopyright("Copyright © 2010-2011 Topten Software")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
